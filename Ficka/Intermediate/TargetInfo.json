@@ -1,0 +1,9 @@
+{
+	"Targets": [
+		{
+			"Name": "Ficka",
+			"Path": "/Users/shianneschrum/Desktop/ProjectFicka/Ficka/Intermediate/Source/Ficka.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
