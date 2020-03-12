@@ -1,4 +1,0 @@
-ARCoreResources.bundle/Info.plist
-ARCoreResources.bundle/Resources
-Info.plist
-ue4commandline.txt
