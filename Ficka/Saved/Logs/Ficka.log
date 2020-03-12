@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 03/11/20 21:28:37
+=======
+﻿Log file open, 03/11/20 22:11:00
+>>>>>>> Add_HouseFiles
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Ficka
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.212575
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.100813
+>>>>>>> Add_HouseFiles
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -126,6 +135,7 @@ LogInit:  - BufferSize = 65536
 LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+<<<<<<< HEAD
 LogInit: Build: ++UE4+Release-4.24-CL-10757647
 LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
 LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
@@ -137,6 +147,19 @@ LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.24
 LogInit: Command Line: 
 LogInit: Base Directory: D:/Programs/UE_4.24/Engine/Binaries/Win64/
+=======
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=XxTrAnSFoRMzZ -epicuserid=1319d880d8d94be38539eba290f8a502 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+>>>>>>> Add_HouseFiles
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 25
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -168,6 +191,7 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2020.03.12-01.28.37:307][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.03.12-01.28.37:307][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.03.12-01.28.37:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
@@ -1276,3 +1300,850 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-01.34.48:754][ 92]LogD3D11RHI: CleanupD3DDevice
 [2020.03.12-01.34.48:767][ 92]LogExit: Exiting.
 [2020.03.12-01.34.48:781][ 92]Log file closed, 03/11/20 21:34:48
+=======
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.12-02.11.00:615][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.12-02.11.00:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:616][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:627][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:627][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.12-02.11.00:627][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.12-02.11.00:627][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:627][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.12-02.11.00:627][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:627][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.12-02.11.00:628][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.12-02.11.00:629][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.12-02.11.00:629][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-02.11.00:630][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.12-02.11.00:633][  0]LogHAL: Display: Platform has ~ 32 GB [34263494656 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.12-02.11.00:633][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.12-02.11.00:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.12-02.11.00:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.12-02.11.00:634][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.12-02.11.00:635][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Config/Windows/Engine.ini]
+[2020.03.12-02.11.00:636][  0]LogInit: Computer: DESKTOP-F2F7UKE
+[2020.03.12-02.11.00:636][  0]LogInit: User: Owner
+[2020.03.12-02.11.00:636][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.12-02.11.00:636][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.12-02.11.00:636][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.12-02.11.00:636][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.12-02.11.00:636][  0]LogMemory: Process Physical Memory: 106.42 MB used, 106.42 MB peak
+[2020.03.12-02.11.00:636][  0]LogMemory: Process Virtual Memory: 100.79 MB used, 100.79 MB peak
+[2020.03.12-02.11.00:636][  0]LogMemory: Physical Memory: 21437.05 MB used,  11239.17 MB free, 32676.21 MB total
+[2020.03.12-02.11.00:636][  0]LogMemory: Virtual Memory: 5140.37 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.03.12-02.11.00:639][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.12-02.11.00:656][  0]LogInit: Using OS detected language (en-US).
+[2020.03.12-02.11.00:656][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.12-02.11.00:657][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.12-02.11.00:855][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.12-02.11.00:936][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.12-02.11.00:936][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.12-02.11.01:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.12-02.11.01:121][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.12-02.11.01:121][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.12-02.11.01:121][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.12-02.11.01:186][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.03.12-02.11.01:186][  0]LogD3D11RHI:       4043/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.03.12-02.11.01:188][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.12-02.11.01:188][  0]LogD3D11RHI:       0/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.12-02.11.01:188][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.12-02.11.01:200][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.12-02.11.01:200][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.12-02.11.01:200][  0]LogWindows: EnumDisplayDevices:
+[2020.03.12-02.11.01:201][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.03.12-02.11.01:201][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.03.12-02.11.01:201][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.03.12-02.11.01:201][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.03.12-02.11.01:201][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.12-02.11.01:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.03.12-02.11.01:201][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.03.12-02.11.01:201][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.03.12-02.11.01:201][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.03.12-02.11.01:244][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.12-02.11.01:244][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.12-02.11.01:263][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.12-02.11.01:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.12-02.11.01:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.12-02.11.01:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.12-02.11.01:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.12-02.11.01:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.12-02.11.01:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.12-02.11.01:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.12-02.11.01:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.12-02.11.01:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.12-02.11.01:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.12-02.11.01:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.12-02.11.01:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.12-02.11.01:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.12-02.11.01:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.12-02.11.01:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.12-02.11.01:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.12-02.11.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.12-02.11.01:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.12-02.11.01:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.12-02.11.01:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.12-02.11.01:775][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.12-02.11.01:797][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (F:/ARProject/Unreal/ThesisFicka/Ficka/Intermediate/Shaders/WorkingDirectory/76604/).
+[2020.03.12-02.11.01:797][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/D5C6C46047F3ADEB830CC5A16E76A646/'.
+[2020.03.12-02.11.01:797][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.12-02.11.01:798][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.12-02.11.01:798][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.12-02.11.02:620][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.12-02.11.02:690][  0]LogDerivedDataCache: Loaded boot cache 0.07s 99MB C:/Users/Owner/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.12-02.11.02:715][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.12-02.11.02:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/ARProject/Unreal/ThesisFicka/Ficka/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.12-02.11.02:715][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.12-02.11.02:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/ARProject/Unreal/ThesisFicka/Ficka/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-02.11.02:715][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.12-02.11.02:725][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.12-02.11.02:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-02.11.02:725][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.12-02.11.02:727][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.12-02.11.02:727][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.12-02.11.02:727][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.12-02.11.02:754][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.12-02.11.02:757][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.12-02.11.02:757][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.12-02.11.02:808][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.03.12-02.11.03:132][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-02.11.03:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.12-02.11.03:296][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.12-02.11.03:296][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.12-02.11.03:296][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.12-02.11.03:296][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.12-02.11.03:318][  0]LogNetVersion: Ficka 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4207498835)
+[2020.03.12-02.11.04:550][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.069664 seconds
+[2020.03.12-02.11.04:559][  0]LogUObjectArray: 47448 objects as part of root set at end of initial load.
+[2020.03.12-02.11.04:559][  0]LogUObjectAllocator: 8286104 out of 0 bytes used by permanent object pool.
+[2020.03.12-02.11.04:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.12-02.11.04:989][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.12-02.11.04:992][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.12-02.11.05:056][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.05:056][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.05:058][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.05:059][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.05:060][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.05:072][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.12-02.11.05:073][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.12-02.11.05:150][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.12-02.11.05:167][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.12-02.11.05:167][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.12-02.11.05:256][  0]LogOcInput: OculusInput pre-init called
+[2020.03.12-02.11.05:262][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.12-02.11.05:263][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.12-02.11.05:335][  0]LogEngine: Initializing Engine...
+[2020.03.12-02.11.05:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.12-02.11.05:337][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.12-02.11.05:726][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.12-02.11.05:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.12-02.11.05:749][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.12-02.11.05:749][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.12-02.11.05:750][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.12-02.11.05:750][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Name: Speakers (Turtle Beach PX22)
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.12-02.11.05:796][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.12-02.11.05:816][  0]LogAudioMixer: Display: Using Audio Device Speakers (Turtle Beach PX22)
+[2020.03.12-02.11.05:822][  0]LogInit: FAudioDevice initialized.
+[2020.03.12-02.11.05:822][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.12-02.11.05:913][  0]LogDerivedDataCache: Saved boot cache 0.09s 99MB C:/Users/Owner/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.12-02.11.05:921][  0]LogInit: Texture streaming: Enabled
+[2020.03.12-02.11.05:931][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.12-02.11.05:931][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.12-02.11.05:934][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.12-02.11.05:999][  0]LogInit: Transaction tracking system initialized
+[2020.03.12-02.11.06:010][  0]BlueprintLog: New page: Editor Load
+[2020.03.12-02.11.06:045][  0]LocalizationService: Localization service is disabled
+[2020.03.12-02.11.06:092][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.12-02.11.06:092][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.12-02.11.06:359][  0]LogFileCache: Scanning file cache for directory 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/' took 0.00s
+[2020.03.12-02.11.06:359][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.12-02.11.06:359][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.12-02.11.07:053][  0]SourceControl: Source control is disabled
+[2020.03.12-02.11.07:053][  0]Cmd: MAP LOAD FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/HandheldARBP/Maps/HandheldARBlankMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.12-02.11.07:054][  0]LightingResults: New page: Lighting Build
+[2020.03.12-02.11.07:054][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-02.11.07:054][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.12-02.11.07:055][  0]MapCheck: New page: Map Check
+[2020.03.12-02.11.07:055][  0]LightingResults: New page: Lighting Build
+[2020.03.12-02.11.07:081][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Hay_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Front_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Front_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_lambert8_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_lambert8_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Front_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_lambert8_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:129][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Hay_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.08:909][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Hay_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:909][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Stone_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.08:909][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Roof_Hay_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.09:058][  0]LogMaterial: Display: Missing cached shader map for material HouseHay_M, compiling. 
+[2020.03.12-02.11.11:951][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.12-02.11.11:951][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.12-02.11.11:951][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.12-02.11.11:951][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Roof_Hay_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Roof_Hay_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_PadioWoos_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: SunRaysSmall (AutoDXT, 1000X1000)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_BackWood_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_BackWood_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_BackWood_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Stone_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_Stone_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_PadioWoos_Normal (BC5, 2048X2048)
+[2020.03.12-02.11.11:951][  0]LogMaterial: Display: Missing cached shader map for material HouseFront_M, compiling. 
+[2020.03.12-02.11.11:969][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 15
+[2020.03.12-02.11.11:969][  0]LogStaticMesh: Building static mesh BeachHouse_SM...
+[2020.03.12-02.11.12:300][  0]LogTexture: Display: Building textures: HouseUnwrappedTest1_PadioWoos_BaseColor (AutoDXT, 2048X2048)
+[2020.03.12-02.11.12:300][  0]LogStaticMesh: Built static mesh [0.33s] /Game/Custom/Meshes/BeachHouse/BeachHouse_SM.BeachHouse_SM
+[2020.03.12-02.11.13:132][  0]LogMaterial: Display: Missing cached shader map for material HousePatio_M, compiling. 
+[2020.03.12-02.11.13:156][  0]LogMaterial: Display: Missing cached shader map for material HouseLambert_M, compiling. 
+[2020.03.12-02.11.13:645][  0]LogMaterial: Display: Missing cached shader map for material HouseStone_M, compiling. 
+[2020.03.12-02.11.13:672][  0]LogMaterial: Display: Missing cached shader map for material HouseRoof_M, compiling. 
+[2020.03.12-02.11.13:731][  0]LogMaterial: Display: Missing cached shader map for material SunRays_M, compiling. 
+[2020.03.12-02.11.13:787][  0]LogMaterial: Display: Missing cached shader map for material Sun_M, compiling. 
+[2020.03.12-02.11.13:799][  0]LogStaticMesh: Building static mesh LandMesh_SM...
+[2020.03.12-02.11.14:141][  0]LogStaticMesh: Built static mesh [0.34s] /Game/Custom/Meshes/LandMesh_SM.LandMesh_SM
+[2020.03.12-02.11.14:455][  0]LogMaterial: Display: Missing cached shader map for material Cloth, compiling. 
+[2020.03.12-02.11.14:537][  0]LogMaterial: Display: Missing cached shader map for material HouseWood_M, compiling. 
+[2020.03.12-02.11.14:654][  0]LogMaterial: Display: Missing cached shader map for material Water_M, compiling. 
+[2020.03.12-02.11.14:793][  0]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2020.03.12-02.11.14:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.12-02.11.14:866][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.03.12-02.11.14:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.12-02.11.14:877][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2020.03.12-02.11.14:877][  0]LogFileHelpers: Loading map 'HandheldARBlankMap' took 7.824
+[2020.03.12-02.11.15:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-02.11.15:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-02.11.15:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-02.11.15:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-02.11.15:168][  0]LogCollectionManager: Loaded 0 collections in 0.002762 seconds
+[2020.03.12-02.11.15:189][  0]LogFileCache: Scanning file cache for directory 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Collections/' took 0.00s
+[2020.03.12-02.11.15:189][  0]LogFileCache: Scanning file cache for directory 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Developers/Owner/Collections/' took 0.00s
+[2020.03.12-02.11.15:189][  0]LogFileCache: Scanning file cache for directory 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Collections/' took 0.00s
+[2020.03.12-02.11.15:189][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 3117 classes and 767 folders.
+[2020.03.12-02.11.15:193][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.12-02.11.15:261][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.12-02.11.15:268][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.03.12-02.11.15:328][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.12-02.11.15:330][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.12-02.11.15:336][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.12-02.11.15:495][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.12-02.11.15:677][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.12-02.11.15:677][  0]LogLoad: (Engine Initialization) Total time: 16.35 seconds
+[2020.03.12-02.11.15:677][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.12-02.11.15:744][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.12-02.11.15:809][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-02.11.15:857][  1]LogAssetRegistry: Asset discovery search completed in 13.0496 seconds
+[2020.03.12-02.11.15:863][  1]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 195
+[2020.03.12-02.11.15:863][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.03.12-02.11.16:964][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 185
+[2020.03.12-02.11.17:261][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 175
+[2020.03.12-02.11.17:355][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 165
+[2020.03.12-02.11.23:303][337]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 155
+[2020.03.12-02.11.23:347][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 145
+[2020.03.12-02.11.23:381][341]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 135
+[2020.03.12-02.11.24:759][422]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 125
+[2020.03.12-02.11.28:305][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 115
+[2020.03.12-02.11.29:413][670]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 105
+[2020.03.12-02.11.29:414][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 95
+[2020.03.12-02.11.30:326][716]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2020.03.12-02.11.32:045][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.03.12-02.11.34:045][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2020.03.12-02.11.35:826][988]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.03.12-02.11.35:909][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.03.12-02.11.36:677][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.03.12-02.11.39:441][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.03.12-02.11.41:571][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.03.12-02.11.41:738][295]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.03.12-02.11.42:498][337]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.12-02.11.43:374][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.03.12-02.11.43:675][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.12-02.11.44:017][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.12-02.11.44:496][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.12-02.11.44:830][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.12-02.11.47:392][604]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-02.11.47:426][604]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Umbrella/Umbrella.Umbrella
+[2020.03.12-02.11.47:429][604]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.12-02.11.47:617][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.11.47:618][604]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.03.12-02.11.47:724][604]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.11.48:001][604]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.12-02.11.50:062][710]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:111).
+[2020.03.12-02.11.50:103][712]LogSlate: Window 'Umbrella' being destroyed
+[2020.03.12-02.11.53:526][902]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Chair/Chair.Chair
+[2020.03.12-02.11.53:532][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.11.53:563][902]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.11.55:203][971]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Custom/Meshes/Chair/Chair_Anim.Chair_Anim
+[2020.03.12-02.11.55:210][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.11.55:235][971]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.11.55:625][971]LogRenderer: Reallocating scene render targets to support 1616x884 Format 10 NumSamples 1 (Frame:1).
+[2020.03.12-02.11.55:625][971]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-02.12.05:556][544]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Custom/Meshes/Rod/Rod_Casting_Anim.Rod_Casting_Anim
+[2020.03.12-02.12.05:642][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.12.05:674][544]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.12.05:674][544]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.12.06:065][544]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-02.12.19:811][332]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh.Tree01_SkeletalMesh
+[2020.03.12-02.12.19:818][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.12.19:852][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.12.21:404][393]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Custom/Meshes/Trees/Tree01/Tree01_Enter_Anim.Tree01_Enter_Anim
+[2020.03.12-02.12.21:410][393]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.12.21:438][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.12.21:818][393]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-02.12.33:461][ 68]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Tree01_Root.FBX]
+[2020.03.12-02.12.33:601][ 68]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Tree01_Root.FBX
+[2020.03.12-02.12.33:720][ 68]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.12.33:765][ 68]LogFbx: Triangulating skeletal mesh Trunk
+[2020.03.12-02.12.33:832][ 68]LogFbx: Triangulating skeletal mesh Object001
+[2020.03.12-02.12.33:951][ 68]LogFbx: Triangulating skeletal mesh Object007
+[2020.03.12-02.12.33:956][ 68]LogFbx: Triangulating skeletal mesh Object017
+[2020.03.12-02.12.33:963][ 68]LogFbx: Triangulating skeletal mesh Object018
+[2020.03.12-02.12.33:969][ 68]LogFbx: Triangulating skeletal mesh Object019
+[2020.03.12-02.12.33:974][ 68]LogFbx: Triangulating skeletal mesh Object020
+[2020.03.12-02.12.33:980][ 68]LogFbx: Triangulating skeletal mesh Object021
+[2020.03.12-02.12.33:986][ 68]LogFbx: Triangulating skeletal mesh Object022
+[2020.03.12-02.12.33:992][ 68]LogFbx: Triangulating skeletal mesh Object023
+[2020.03.12-02.12.33:999][ 68]LogFbx: Triangulating skeletal mesh Object024
+[2020.03.12-02.12.34:004][ 68]LogFbx: Triangulating skeletal mesh Object025
+[2020.03.12-02.12.34:012][ 68]LogFbx: Triangulating skeletal mesh Object026
+[2020.03.12-02.12.34:018][ 68]LogFbx: Triangulating skeletal mesh Object027
+[2020.03.12-02.12.34:024][ 68]LogFbx: Triangulating skeletal mesh Object028
+[2020.03.12-02.12.34:039][ 68]LogFbx: Warning: Bones digested - 15  Depth of hierarchy - 2
+[2020.03.12-02.12.34:203][ 68]LogSkeletalMesh: Section 0: 333 vertices, 3 active bones
+[2020.03.12-02.12.34:203][ 68]LogSkeletalMesh: Section 1: 2967 vertices, 1 active bones
+[2020.03.12-02.12.34:203][ 68]LogSkeletalMesh: Section 2: 555 vertices, 5 active bones
+[2020.03.12-02.12.34:203][ 68]LogSkeletalMesh: Section 3: 333 vertices, 3 active bones
+[2020.03.12-02.12.34:203][ 68]LogSkeletalMesh: Section 4: 222 vertices, 2 active bones
+[2020.03.12-02.12.34:204][ 68]LogSkeletalMesh: Section 5: 7564 vertices, 1 active bones
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 0: Material=0, 516 triangles
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 1: Material=1, 1792 triangles
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 2: Material=2, 860 triangles
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 3: Material=3, 516 triangles
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 4: Material=4, 344 triangles
+[2020.03.12-02.12.34:207][ 68]LogSkeletalMesh: Section 5: Material=5, 3168 triangles
+[2020.03.12-02.12.34:291][ 68]LogEditorFactories: -- imported successfully
+[2020.03.12-02.12.34:296][ 68]LogSkeletalMesh: Building Skeletal Mesh Tree01_SkeletalMesh...
+[2020.03.12-02.12.34:466][ 68]LogSkeletalMesh: Section 0: 333 vertices, 3 active bones
+[2020.03.12-02.12.34:466][ 68]LogSkeletalMesh: Section 1: 2967 vertices, 1 active bones
+[2020.03.12-02.12.34:466][ 68]LogSkeletalMesh: Section 2: 555 vertices, 5 active bones
+[2020.03.12-02.12.34:466][ 68]LogSkeletalMesh: Section 3: 333 vertices, 3 active bones
+[2020.03.12-02.12.34:466][ 68]LogSkeletalMesh: Section 4: 222 vertices, 2 active bones
+[2020.03.12-02.12.34:467][ 68]LogSkeletalMesh: Section 5: 7564 vertices, 1 active bones
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 0: Material=0, 516 triangles
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 1: Material=1, 1792 triangles
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 2: Material=2, 860 triangles
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 3: Material=3, 516 triangles
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 4: Material=4, 344 triangles
+[2020.03.12-02.12.34:469][ 68]LogSkeletalMesh: Section 5: Material=5, 3168 triangles
+[2020.03.12-02.12.34:561][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh.Tree01_SkeletalMesh
+[2020.03.12-02.12.34:566][ 68]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.03.12-02.12.51:036][986]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Tree02_Root.FBX]
+[2020.03.12-02.12.51:148][986]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Tree02_Root.FBX
+[2020.03.12-02.12.51:253][986]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.12.51:293][986]LogFbx: Triangulating skeletal mesh Object029
+[2020.03.12-02.12.51:339][986]LogFbx: Triangulating skeletal mesh Object043
+[2020.03.12-02.12.51:438][986]LogFbx: Triangulating skeletal mesh Object039
+[2020.03.12-02.12.51:446][986]LogFbx: Triangulating skeletal mesh Object042
+[2020.03.12-02.12.51:452][986]LogFbx: Triangulating skeletal mesh Object033
+[2020.03.12-02.12.51:458][986]LogFbx: Triangulating skeletal mesh Object034
+[2020.03.12-02.12.51:464][986]LogFbx: Triangulating skeletal mesh Object035
+[2020.03.12-02.12.51:470][986]LogFbx: Triangulating skeletal mesh Object032
+[2020.03.12-02.12.51:477][986]LogFbx: Triangulating skeletal mesh Object037
+[2020.03.12-02.12.51:483][986]LogFbx: Triangulating skeletal mesh Object038
+[2020.03.12-02.12.51:488][986]LogFbx: Triangulating skeletal mesh Object031
+[2020.03.12-02.12.51:496][986]LogFbx: Triangulating skeletal mesh Object040
+[2020.03.12-02.12.51:502][986]LogFbx: Triangulating skeletal mesh Object041
+[2020.03.12-02.12.51:508][986]LogFbx: Triangulating skeletal mesh Object036
+[2020.03.12-02.12.51:514][986]LogFbx: Triangulating skeletal mesh Object030
+[2020.03.12-02.12.51:526][986]LogFbx: Warning: Bones digested - 15  Depth of hierarchy - 2
+[2020.03.12-02.12.51:667][986]LogSkeletalMesh: Section 0: 333 vertices, 3 active bones
+[2020.03.12-02.12.51:668][986]LogSkeletalMesh: Section 1: 3122 vertices, 1 active bones
+[2020.03.12-02.12.51:668][986]LogSkeletalMesh: Section 2: 555 vertices, 5 active bones
+[2020.03.12-02.12.51:668][986]LogSkeletalMesh: Section 3: 333 vertices, 3 active bones
+[2020.03.12-02.12.51:668][986]LogSkeletalMesh: Section 4: 222 vertices, 2 active bones
+[2020.03.12-02.12.51:668][986]LogSkeletalMesh: Section 5: 7302 vertices, 1 active bones
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 0: Material=0, 516 triangles
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 2: Material=2, 860 triangles
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 3: Material=3, 516 triangles
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 4: Material=4, 344 triangles
+[2020.03.12-02.12.51:671][986]LogSkeletalMesh: Section 5: Material=5, 2640 triangles
+[2020.03.12-02.12.51:738][986]LogEditorFactories: -- imported successfully
+[2020.03.12-02.12.51:743][986]LogSkeletalMesh: Building Skeletal Mesh Tree02_StaticMesh...
+[2020.03.12-02.12.51:868][986]LogSkeletalMesh: Section 0: 333 vertices, 3 active bones
+[2020.03.12-02.12.51:868][986]LogSkeletalMesh: Section 1: 3122 vertices, 1 active bones
+[2020.03.12-02.12.51:868][986]LogSkeletalMesh: Section 2: 555 vertices, 5 active bones
+[2020.03.12-02.12.51:868][986]LogSkeletalMesh: Section 3: 333 vertices, 3 active bones
+[2020.03.12-02.12.51:868][986]LogSkeletalMesh: Section 4: 222 vertices, 2 active bones
+[2020.03.12-02.12.51:869][986]LogSkeletalMesh: Section 5: 7302 vertices, 1 active bones
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 0: Material=0, 516 triangles
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 2: Material=2, 860 triangles
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 3: Material=3, 516 triangles
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 4: Material=4, 344 triangles
+[2020.03.12-02.12.51:872][986]LogSkeletalMesh: Section 5: Material=5, 2640 triangles
+[2020.03.12-02.12.51:970][986]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh.Tree02_StaticMesh
+[2020.03.12-02.12.51:974][986]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.03.12-02.12.52:658][  6]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh.Tree02_StaticMesh
+[2020.03.12-02.12.52:665][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.12.52:697][  6]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.12.54:689][102]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Custom/Meshes/Trees/Tree02/Tree02_Enter_Anim.Tree02_Enter_Anim
+[2020.03.12-02.12.54:695][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.12.54:726][102]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.12.55:100][102]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-02.13.03:274][556]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Fish_Root.FBX]
+[2020.03.12-02.13.03:355][556]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Fish_Root.FBX
+[2020.03.12-02.13.03:395][556]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.13.03:443][556]LogFbx: Valid bind pose for Pose (BIND_POSES) - Body_low
+[2020.03.12-02.13.03:444][556]LogFbx: Triangulating skeletal mesh Body_low
+[2020.03.12-02.13.03:480][556]LogFbx: Triangulating skeletal mesh BottomFin_low
+[2020.03.12-02.13.03:486][556]LogFbx: Triangulating skeletal mesh TopFin_low
+[2020.03.12-02.13.03:489][556]LogFbx: Triangulating skeletal mesh Eyes_low
+[2020.03.12-02.13.03:494][556]LogFbx: Triangulating skeletal mesh SideFin_low
+[2020.03.12-02.13.03:498][556]LogFbx: Triangulating skeletal mesh SideFin1_low
+[2020.03.12-02.13.03:502][556]LogFbx: Warning: Bones digested - 15  Depth of hierarchy - 6
+[2020.03.12-02.13.03:543][556]LogSkeletalMesh: Section 0: 1218 vertices, 15 active bones
+[2020.03.12-02.13.03:543][556]LogSkeletalMesh: Section 0: Material=0, 1600 triangles
+[2020.03.12-02.13.03:561][556]LogEditorFactories: -- imported successfully
+[2020.03.12-02.13.03:565][556]LogSkeletalMesh: Building Skeletal Mesh Fish_SkeletalMesh...
+[2020.03.12-02.13.03:643][556]LogSkeletalMesh: Section 0: 1218 vertices, 15 active bones
+[2020.03.12-02.13.03:643][556]LogSkeletalMesh: Section 0: Material=0, 1600 triangles
+[2020.03.12-02.13.03:666][556]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Custom/Meshes/Fish/Fish_SkeletalMesh.Fish_SkeletalMesh
+[2020.03.12-02.13.05:162][623]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Fish/Fish_SkeletalMesh.Fish_SkeletalMesh
+[2020.03.12-02.13.05:169][623]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.13.05:201][623]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.13.07:151][718]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Custom/Meshes/Fish/Fish_Swim_Anim.Fish_Swim_Anim
+[2020.03.12-02.13.07:158][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.13.07:187][718]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-02.13.07:575][718]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-02.13.16:726][223]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Chair_Root.FBX]
+[2020.03.12-02.13.16:820][223]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Chair_Root.FBX
+[2020.03.12-02.13.16:873][223]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.13.16:915][223]LogFbx: Triangulating skeletal mesh BeachChair
+[2020.03.12-02.13.17:074][223]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Metal.Metal or Material /Game/Custom/Meshes/Umbrella/Metal.Metal
+[2020.03.12-02.13.17:074][223]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Cloth.Cloth or Material /Game/Custom/Meshes/Umbrella/Cloth.Cloth
+[2020.03.12-02.13.17:074][223]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.03.12-02.13.17:180][223]LogSkeletalMesh: Section 0: 160 vertices, 1 active bones
+[2020.03.12-02.13.17:180][223]LogSkeletalMesh: Section 1: 2362 vertices, 1 active bones
+[2020.03.12-02.13.17:180][223]LogSkeletalMesh: Section 2: 592 vertices, 1 active bones
+[2020.03.12-02.13.17:181][223]LogSkeletalMesh: Section 0: Material=0, 192 triangles
+[2020.03.12-02.13.17:181][223]LogSkeletalMesh: Section 1: Material=1, 2816 triangles
+[2020.03.12-02.13.17:181][223]LogSkeletalMesh: Section 2: Material=2, 944 triangles
+[2020.03.12-02.13.17:225][223]LogEditorFactories: -- imported successfully
+[2020.03.12-02.13.17:230][223]LogSkeletalMesh: Building Skeletal Mesh Chair...
+[2020.03.12-02.13.17:365][223]LogSkeletalMesh: Section 0: 160 vertices, 1 active bones
+[2020.03.12-02.13.17:365][223]LogSkeletalMesh: Section 1: 2362 vertices, 1 active bones
+[2020.03.12-02.13.17:365][223]LogSkeletalMesh: Section 2: 592 vertices, 1 active bones
+[2020.03.12-02.13.17:366][223]LogSkeletalMesh: Section 0: Material=0, 192 triangles
+[2020.03.12-02.13.17:366][223]LogSkeletalMesh: Section 1: Material=1, 2816 triangles
+[2020.03.12-02.13.17:366][223]LogSkeletalMesh: Section 2: Material=2, 944 triangles
+[2020.03.12-02.13.17:464][223]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/Custom/Meshes/Chair/Chair.Chair
+[2020.03.12-02.13.17:466][223]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.03.12-02.13.27:811][769]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Umbrella_Root.FBX]
+[2020.03.12-02.13.27:903][769]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Umbrella_Root.FBX
+[2020.03.12-02.13.27:957][769]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.13.27:991][769]LogFbx: Triangulating skeletal mesh Umbrella
+[2020.03.12-02.13.28:186][769]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Metal.Metal or Material /Game/Custom/Meshes/Umbrella/Metal.Metal
+[2020.03.12-02.13.28:186][769]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Cloth.Cloth or Material /Game/Custom/Meshes/Umbrella/Cloth.Cloth
+[2020.03.12-02.13.28:186][769]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.03.12-02.13.28:332][769]LogSkeletalMesh: Section 0: 1377 vertices, 1 active bones
+[2020.03.12-02.13.28:333][769]LogSkeletalMesh: Section 1: 1746 vertices, 1 active bones
+[2020.03.12-02.13.28:333][769]LogSkeletalMesh: Section 0: Material=0, 2560 triangles
+[2020.03.12-02.13.28:333][769]LogSkeletalMesh: Section 1: Material=1, 2752 triangles
+[2020.03.12-02.13.28:390][769]LogEditorFactories: -- imported successfully
+[2020.03.12-02.13.28:394][769]LogSkeletalMesh: Building Skeletal Mesh Umbrella...
+[2020.03.12-02.13.28:568][769]LogSkeletalMesh: Section 0: 1377 vertices, 1 active bones
+[2020.03.12-02.13.28:568][769]LogSkeletalMesh: Section 1: 1746 vertices, 1 active bones
+[2020.03.12-02.13.28:569][769]LogSkeletalMesh: Section 0: Material=0, 2560 triangles
+[2020.03.12-02.13.28:569][769]LogSkeletalMesh: Section 1: Material=1, 2752 triangles
+[2020.03.12-02.13.28:662][769]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/Custom/Meshes/Umbrella/Umbrella.Umbrella
+[2020.03.12-02.13.28:664][769]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.03.12-02.13.58:732][513]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Umbrella_Root.FBX]
+[2020.03.12-02.13.58:829][513]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Umbrella_Root.FBX
+[2020.03.12-02.13.58:886][513]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.13.58:930][513]LogFbx: Triangulating skeletal mesh Umbrella
+[2020.03.12-02.13.59:116][513]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Metal.Metal or Material /Game/Custom/Meshes/Umbrella/Metal.Metal
+[2020.03.12-02.13.59:116][513]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/Custom/Meshes/Chair/Cloth.Cloth or Material /Game/Custom/Meshes/Umbrella/Cloth.Cloth
+[2020.03.12-02.13.59:116][513]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.03.12-02.13.59:267][513]LogSkeletalMesh: Section 0: 1377 vertices, 1 active bones
+[2020.03.12-02.13.59:268][513]LogSkeletalMesh: Section 1: 1746 vertices, 1 active bones
+[2020.03.12-02.13.59:268][513]LogSkeletalMesh: Section 0: Material=0, 2560 triangles
+[2020.03.12-02.13.59:268][513]LogSkeletalMesh: Section 1: Material=1, 2752 triangles
+[2020.03.12-02.13.59:323][513]LogEditorFactories: -- imported successfully
+[2020.03.12-02.13.59:327][513]LogSkeletalMesh: Building Skeletal Mesh Umbrella...
+[2020.03.12-02.13.59:506][513]LogSkeletalMesh: Section 0: 1377 vertices, 1 active bones
+[2020.03.12-02.13.59:506][513]LogSkeletalMesh: Section 1: 1746 vertices, 1 active bones
+[2020.03.12-02.13.59:506][513]LogSkeletalMesh: Section 0: Material=0, 2560 triangles
+[2020.03.12-02.13.59:506][513]LogSkeletalMesh: Section 1: Material=1, 2752 triangles
+[2020.03.12-02.13.59:609][513]LogSkeletalMesh: Built Skeletal Mesh [0.28s] /Game/Custom/Meshes/Umbrella/Umbrella.Umbrella
+[2020.03.12-02.13.59:611][513]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.03.12-02.14.15:627][416]LogEditorFactories: Performing atomic reimport of [F:/ARProject/FBX/Rod_Base.FBX]
+[2020.03.12-02.14.15:731][416]LogFbx: Loading FBX Scene from F:/ARProject/FBX/Rod_Base.FBX
+[2020.03.12-02.14.15:811][416]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.12-02.14.15:865][416]LogFbx: Valid bind pose for Pose (BIND_POSES) - Rod_low
+[2020.03.12-02.14.15:868][416]LogFbx: Triangulating skeletal mesh Rod_low
+[2020.03.12-02.14.15:951][416]LogFbx: Triangulating skeletal mesh Reel_low
+[2020.03.12-02.14.15:984][416]LogFbx: Triangulating skeletal mesh Wire_low
+[2020.03.12-02.14.16:026][416]LogFbx: Triangulating skeletal mesh Hook_low
+[2020.03.12-02.14.16:035][416]LogFbx: Warning: Bones digested - 31  Depth of hierarchy - 26
+[2020.03.12-02.14.16:160][416]LogSkeletalMesh: Section 0: 4524 vertices, 14 active bones
+[2020.03.12-02.14.16:160][416]LogSkeletalMesh: Section 1: 829 vertices, 26 active bones
+[2020.03.12-02.14.16:161][416]LogSkeletalMesh: Section 0: Material=0, 3605 triangles
+[2020.03.12-02.14.16:162][416]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2020.03.12-02.14.16:209][416]LogEditorFactories: -- imported successfully
+[2020.03.12-02.14.16:213][416]LogSkeletalMesh: Building Skeletal Mesh Rod_SkeletalMesh...
+[2020.03.12-02.14.16:365][416]LogSkeletalMesh: Section 0: 4524 vertices, 14 active bones
+[2020.03.12-02.14.16:365][416]LogSkeletalMesh: Section 1: 829 vertices, 26 active bones
+[2020.03.12-02.14.16:366][416]LogSkeletalMesh: Section 0: Material=0, 3605 triangles
+[2020.03.12-02.14.16:366][416]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2020.03.12-02.14.16:447][416]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/Custom/Meshes/Rod/Rod_SkeletalMesh.Rod_SkeletalMesh
+[2020.03.12-02.14.16:450][416]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.14.16:459][416]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.14.17:093][432]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Rod/Rod_SkeletalMesh.Rod_SkeletalMesh
+[2020.03.12-02.14.17:098][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-02.14.17:129][432]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.14.17:129][432]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2020.03.12-02.14.37:215][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.12-02.14.37:272][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Chair/Chair" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Chair/Chair.uasset" SILENT=true
+[2020.03.12-02.14.37:388][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/ChairD1EBFABA4FE5D9C198468EA936829EE5.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Chair/Chair.uasset'
+[2020.03.12-02.14.37:405][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Fish/Fish_SkeletalMesh" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Fish/Fish_SkeletalMesh.uasset" SILENT=true
+[2020.03.12-02.14.37:448][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Fish_SkeletalMesh383DA7664212EBB0DA004892FDD99868.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Fish/Fish_SkeletalMesh.uasset'
+[2020.03.12-02.14.37:462][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh.uasset" SILENT=true
+[2020.03.12-02.14.37:607][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Tree01_SkeletalMesh2387AEB2420D197636213BA557316ACC.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh.uasset'
+[2020.03.12-02.14.37:621][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh.uasset" SILENT=true
+[2020.03.12-02.14.37:804][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Tree02_StaticMesh12A746EF4616C2273825E4B9E23B6E22.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh.uasset'
+[2020.03.12-02.14.37:818][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Umbrella/Umbrella" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Umbrella/Umbrella.uasset" SILENT=true
+[2020.03.12-02.14.37:937][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Umbrella51942BD944816973225D91AA984AA59C.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Umbrella/Umbrella.uasset'
+[2020.03.12-02.14.37:951][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Rod/Rod_SkeletalMesh" FILE="F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Rod/Rod_SkeletalMesh.uasset" SILENT=true
+[2020.03.12-02.14.38:035][558]LogSavePackage: Moving 'F:/ARProject/Unreal/ThesisFicka/Ficka/Saved/Rod_SkeletalMesh3E6ACD9F4E0C546F49B473A8ABE04AD2.tmp' to 'F:/ARProject/Unreal/ThesisFicka/Ficka/Content/Custom/Meshes/Rod/Rod_SkeletalMesh.uasset'
+[2020.03.12-02.14.38:074][558]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-02.14.38:074][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Chair/Chair.Chair
+[2020.03.12-02.14.38:074][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Fish/Fish_SkeletalMesh.Fish_SkeletalMesh
+[2020.03.12-02.14.38:074][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Trees/Tree01/Tree01_SkeletalMesh.Tree01_SkeletalMesh
+[2020.03.12-02.14.38:075][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Trees/Tree02/Tree02_StaticMesh.Tree02_StaticMesh
+[2020.03.12-02.14.38:075][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Umbrella/Umbrella.Umbrella
+[2020.03.12-02.14.38:075][558]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Rod/Rod_SkeletalMesh.Rod_SkeletalMesh
+>>>>>>> Add_HouseFiles
