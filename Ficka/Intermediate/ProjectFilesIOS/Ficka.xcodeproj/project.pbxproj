@@ -1,0 +1,542 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		34DF79E2EDFE67416BEF77BF /* AndroidGame.ini in Sources */ = {isa = PBXBuildFile; fileRef = 6BB943E2C40AE476452D4EE3 /* AndroidGame.ini */; };
+		39A799C779365B4E9F469821 /* DefaultDeviceProfiles.ini in Sources */ = {isa = PBXBuildFile; fileRef = 6EF1EB4E659A8BF798C986A9 /* DefaultDeviceProfiles.ini */; };
+		91F6DDE87770C5A225363F8F /* DefaultEditor.ini in Sources */ = {isa = PBXBuildFile; fileRef = 9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */; };
+		1CA02256E208777020EF3683 /* DefaultEngine.ini in Sources */ = {isa = PBXBuildFile; fileRef = 5873D72E80F5FC38B15BAE4B /* DefaultEngine.ini */; };
+		2C4E399CAD3837ECD0F8CBD6 /* DefaultGame.ini in Sources */ = {isa = PBXBuildFile; fileRef = 4E6FC01DBECF6EAFE3EBE34A /* DefaultGame.ini */; };
+		24EDCC7DA8ED33C0F2D72993 /* DefaultInput.ini in Sources */ = {isa = PBXBuildFile; fileRef = CEDBC2E8B849B360A801E011 /* DefaultInput.ini */; };
+		B598FEA846B56A21864682FE /* Ficka.uproject in Sources */ = {isa = PBXBuildFile; fileRef = 10E4841AB4578BB4EF66F8B7 /* Ficka.uproject */; };
+		C74D60247E01F3679939527D /* Ficka.Build.cs in Sources */ = {isa = PBXBuildFile; fileRef = 6A68146EDA74D8CF46157B45 /* Ficka.Build.cs */; };
+		A6545438FAC296DCF235C2BC /* Ficka.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 894ADDFFEB5B7E06E7B1C8C5 /* Ficka.cpp */; };
+		102446793638E1E773194BBB /* Ficka.Target.cs in Sources */ = {isa = PBXBuildFile; fileRef = 940AC694D607EE88F16DFF10 /* Ficka.Target.cs */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6BB943E2C40AE476452D4EE3 /* AndroidGame.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "AndroidGame.ini"; path = "../../Config/Android/AndroidGame.ini"; sourceTree = SOURCE_ROOT; };
+		6EF1EB4E659A8BF798C986A9 /* DefaultDeviceProfiles.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultDeviceProfiles.ini"; path = "../../Config/DefaultDeviceProfiles.ini"; sourceTree = SOURCE_ROOT; };
+		9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultEditor.ini"; path = "../../Config/DefaultEditor.ini"; sourceTree = SOURCE_ROOT; };
+		5873D72E80F5FC38B15BAE4B /* DefaultEngine.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultEngine.ini"; path = "../../Config/DefaultEngine.ini"; sourceTree = SOURCE_ROOT; };
+		4E6FC01DBECF6EAFE3EBE34A /* DefaultGame.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultGame.ini"; path = "../../Config/DefaultGame.ini"; sourceTree = SOURCE_ROOT; };
+		CEDBC2E8B849B360A801E011 /* DefaultInput.ini */ = {isa = PBXFileReference; explicitFileType = file.text; name = "DefaultInput.ini"; path = "../../Config/DefaultInput.ini"; sourceTree = SOURCE_ROOT; };
+		10E4841AB4578BB4EF66F8B7 /* Ficka.uproject */ = {isa = PBXFileReference; explicitFileType = file.text; name = "Ficka.uproject"; path = "../../Ficka.uproject"; sourceTree = SOURCE_ROOT; };
+		6A68146EDA74D8CF46157B45 /* Ficka.Build.cs */ = {isa = PBXFileReference; explicitFileType = file.text; name = "Ficka.Build.cs"; path = "../Source/Ficka.Build.cs"; sourceTree = SOURCE_ROOT; };
+		894ADDFFEB5B7E06E7B1C8C5 /* Ficka.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "Ficka.cpp"; path = "../Source/Ficka.cpp"; sourceTree = SOURCE_ROOT; };
+		940AC694D607EE88F16DFF10 /* Ficka.Target.cs */ = {isa = PBXFileReference; explicitFileType = file.text; name = "Ficka.Target.cs"; path = "../Source/Ficka.Target.cs"; sourceTree = SOURCE_ROOT; };
+		84E37F9C41673C03B76DFBEE /* Ficka */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = Ficka; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E44981ADEA89601BE9ABDCDF = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6545438FAC296DCF235C2BC /* Ficka.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+	4170EABABD346F3636840920 /* Embed App Extensions */ = {
+		isa = PBXCopyFilesBuildPhase;
+		buildActionMask = 2147483647;
+		dstPath = "";
+		dstSubfolderSpec = 13;
+		files = (
+		);
+		name = "Embed App Extensions";
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+/* End PBXCopyFilesBuildPhase section */
+/* Begin PBXContainerItemProxy section */
+		176673E71B849C5AED637E65 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A8FF494CB3E80D2197D35BBF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EBE85D826007F73AD2107080;
+			remoteInfo = "Ficka_Build";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXGroup section */
+		6FD3A69C37DD162750BE8CDB = {
+			isa = PBXGroup;
+			children = (
+				AD3BB4BAA0AAFE4FF263F5B2 /* Config */,
+				5B523CBC9C4C814AB88D30D0 /* Intermediate */,
+				10E4841AB4578BB4EF66F8B7 /* Ficka.uproject */,
+				3FD1F78277DA9B53BE3BF1A9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD3BB4BAA0AAFE4FF263F5B2 = {
+			isa = PBXGroup;
+			children = (
+				D9D17601E8A68FC7AC872036 /* Android */,
+				6EF1EB4E659A8BF798C986A9 /* DefaultDeviceProfiles.ini */,
+				9F1A6E3CBDFC1C4D72A426E5 /* DefaultEditor.ini */,
+				5873D72E80F5FC38B15BAE4B /* DefaultEngine.ini */,
+				4E6FC01DBECF6EAFE3EBE34A /* DefaultGame.ini */,
+				CEDBC2E8B849B360A801E011 /* DefaultInput.ini */,
+			);
+			name = "Config";
+			path = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Config";
+			sourceTree = "<absolute>";
+		};
+		D9D17601E8A68FC7AC872036 = {
+			isa = PBXGroup;
+			children = (
+				6BB943E2C40AE476452D4EE3 /* AndroidGame.ini */,
+			);
+			name = "Android";
+			path = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Config/Android";
+			sourceTree = "<absolute>";
+		};
+		5B523CBC9C4C814AB88D30D0 = {
+			isa = PBXGroup;
+			children = (
+				11CA92F4E40D283A78078B5A /* Source */,
+			);
+			name = "Intermediate";
+			path = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate";
+			sourceTree = "<absolute>";
+		};
+		11CA92F4E40D283A78078B5A = {
+			isa = PBXGroup;
+			children = (
+				6A68146EDA74D8CF46157B45 /* Ficka.Build.cs */,
+				894ADDFFEB5B7E06E7B1C8C5 /* Ficka.cpp */,
+				940AC694D607EE88F16DFF10 /* Ficka.Target.cs */,
+			);
+			name = "Source";
+			path = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/Source";
+			sourceTree = "<absolute>";
+		};
+		3FD1F78277DA9B53BE3BF1A9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84E37F9C41673C03B76DFBEE /* Ficka */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		EBE85D826007F73AD2107080 /* Ficka_Build */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION) $(UE_BUILD_TARGET_NAME) $(PLATFORM_NAME) $(UE_BUILD_TARGET_CONFIG) \"/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Ficka.uproject\"";
+			buildConfigurationList = 4BEEBF3DB96ABA12E1CA5189 /* Build configuration list for PBXLegacyTarget "Ficka_Build" */;
+			buildPhases = (
+			);
+			buildToolPath = "/Users/Shared/Epic Games/UE_4.24/Engine/Build/BatchFiles/Mac/XcodeBuild.sh";
+			buildWorkingDirectory = "/Users/Shared/Epic Games/UE_4.24";
+			dependencies = (
+			);
+			name = "Ficka_Build";
+			passBuildSettingsInEnvironment = 1;
+			productName = "Ficka_Build";
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXNativeTarget section */
+		597C15714F1ABDCB289C5A93 /* Ficka */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 515EE587E6BFD5DAC155C5A8 /* Build configuration list for PBXNativeTarget "Ficka" */;
+			buildPhases = (
+				4170EABABD346F3636840920 /* Embed App Extensions */, 
+				CE924F18F1C2E034E2FDB7ED /* Shell Script */, 
+			);
+			dependencies = (
+			);
+			name = "Ficka";
+			passBuildSettingsInEnvironment = 1;
+			productName = "Ficka";
+			productReference = "84E37F9C41673C03B76DFBEE";
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXNativeTarget section */
+		26A01134DA891EAA6B84FB32 /* Ficka_Index */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 271AFAE66C44927373FF5053 /* Build configuration list for PBXNativeTarget "Ficka_Index" */;
+			buildPhases = (
+				E44981ADEA89601BE9ABDCDF /* Sources */,
+			);
+			dependencies = (
+			);
+			name = "Ficka_Index";
+			passBuildSettingsInEnvironment = 1;
+			productName = "Ficka_Index";
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A8FF494CB3E80D2197D35BBF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 2000;
+				ORGANIZATIONNAME = "Epic Games, Inc.";
+				TargetAttributes = {
+					597C15714F1ABDCB289C5A93 = {
+						ProvisioningStyle = Manual;
+					};
+				};
+			};
+			buildConfigurationList = F5C35F49F2C615C7F28C159E /* Build configuration list for PBXProject "Ficka" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en
+			);
+			mainGroup = 6FD3A69C37DD162750BE8CDB;
+			productRefGroup = 3FD1F78277DA9B53BE3BF1A9;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			597C15714F1ABDCB289C5A93 /* Ficka */,
+			EBE85D826007F73AD2107080 /* Ficka_Build */,
+			26A01134DA891EAA6B84FB32 /* Ficka_Index */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5B683DC75D71F194F4174006 /* "DebugGame" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"__INTELLISENSE__",
+					"MONOLITHIC_BUILD=1",
+				);
+				HEADER_SEARCH_PATHS = (
+				);
+				USER_HEADER_SEARCH_PATHS = (
+				);
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = NO;
+				USE_HEADERMAP = NO;
+			};
+			name = "DebugGame";
+		};
+		2C5669288A57AEFA8AE58D15 /* "Development" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"__INTELLISENSE__",
+					"MONOLITHIC_BUILD=1",
+				);
+				HEADER_SEARCH_PATHS = (
+				);
+				USER_HEADER_SEARCH_PATHS = (
+				);
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = NO;
+				USE_HEADERMAP = NO;
+			};
+			name = "Development";
+		};
+		ACDE9C55FC348EEAC34647DE /* "Shipping" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"__INTELLISENSE__",
+					"MONOLITHIC_BUILD=1",
+				);
+				HEADER_SEARCH_PATHS = (
+				);
+				USER_HEADER_SEARCH_PATHS = (
+				);
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = NO;
+				USE_HEADERMAP = NO;
+			};
+			name = "Shipping";
+		};
+		F0E19689CBBA72603F61DE57 /* "DebugGame" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka-Mac-DebugGame";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "DebugGame";
+		};
+		47CAC94C1AFC4DF482419223 /* "Development" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "Development";
+		};
+		88E4C463DF9DF52ECE540E45 /* "Shipping" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka-Mac-Shipping";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "Shipping";
+		};
+		39482927CAA7FD44B9FC5E54 /* "DebugGame" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				GCC_PREPROCESSOR_DEFINITIONS = ();
+				HEADER_SEARCH_PATHS = ();
+				USER_HEADER_SEARCH_PATHS = ();
+				UE_BUILD_TARGET_NAME = "Ficka";
+				UE_BUILD_TARGET_CONFIG = "DebugGame";
+			};
+			name = "DebugGame";
+		};
+		E1ACCEC9352706EF1F19FB74 /* "Development" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				GCC_PREPROCESSOR_DEFINITIONS = ();
+				HEADER_SEARCH_PATHS = ();
+				USER_HEADER_SEARCH_PATHS = ();
+				UE_BUILD_TARGET_NAME = "Ficka";
+				UE_BUILD_TARGET_CONFIG = "Development";
+			};
+			name = "Development";
+		};
+		42EBA61D7780081D2E051D56 /* "Shipping" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				GCC_PREPROCESSOR_DEFINITIONS = ();
+				HEADER_SEARCH_PATHS = ();
+				USER_HEADER_SEARCH_PATHS = ();
+				UE_BUILD_TARGET_NAME = "Ficka";
+				UE_BUILD_TARGET_CONFIG = "Shipping";
+			};
+			name = "Shipping";
+		};
+		F7A8D9C592752BB751492810 /* "DebugGame" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka-Mac-DebugGame";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "DebugGame";
+		};
+		3ED4B9614D64CA111AC37EC8 /* "Development" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "Development";
+		};
+		8AB1F3EB8B10B0F88DDBD968 /* "Shipping" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				VALID_ARCHS = "x86_64 arm64 armv7 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphoneos";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				"PRODUCT_NAME[sdk=iphoneos*]" = "Ficka";
+				"TARGETED_DEVICE_FAMILY[sdk=iphoneos*]" = "1,2";
+				"SDKROOT[sdk=iphoneos]" = iphoneos;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 4RU2LML9NX;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development: shianneschrum14@gmail.com (RXL8C8MQ3R)";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "3d555768-8b18-47c9-9c66-a2f2a182f500";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Ficka.ThesisProject;
+				"PRODUCT_NAME[sdk=macosx*]" = "Ficka-Mac-Shipping";
+				"CONFIGURATION_BUILD_DIR[sdk=macosx*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/Mac";
+				"SDKROOT[sdk=macosx]" = macosx;
+				"CONFIGURATION_BUILD_DIR[sdk=iphoneos*]" = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Binaries/IOS/Payload";
+				INFOPLIST_FILE = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka-Info.plist";
+				CODE_SIGN_ENTITLEMENTS = "/Users/shianneschrum/Desktop/ThesisFicka/Ficka/Intermediate/IOS/Ficka.entitlements";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				INFOPLIST_OUTPUT_FORMAT = xml;
+				COMBINE_HIDPI_IMAGES = YES;
+				SDKROOT = iphoneos;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/Shared/Epic Games/UE_4.24/Engine/Source/Editor/UnrealEd/Public/UnrealEd.h";
+			};
+			name = "Shipping";
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F5C35F49F2C615C7F28C159E /* Build configuration list for PBXProject "Ficka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5B683DC75D71F194F4174006 /* "DebugGame" */,
+				2C5669288A57AEFA8AE58D15 /* "Development" */,
+				ACDE9C55FC348EEAC34647DE /* "Shipping" */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Development;
+		};
+		4BEEBF3DB96ABA12E1CA5189 /* Build configuration list for PBXLegacyTarget "Ficka_Build" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39482927CAA7FD44B9FC5E54 /* "DebugGame" */,
+				E1ACCEC9352706EF1F19FB74 /* "Development" */,
+				42EBA61D7780081D2E051D56 /* "Shipping" */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Development;
+		};
+		515EE587E6BFD5DAC155C5A8 /* Build configuration list for PBXNativeTarget "Ficka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0E19689CBBA72603F61DE57 /* "DebugGame" */,
+				47CAC94C1AFC4DF482419223 /* "Development" */,
+				88E4C463DF9DF52ECE540E45 /* "Shipping" */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Development;
+		};
+		271AFAE66C44927373FF5053 /* Build configuration list for PBXNativeTarget "Ficka_Index" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7A8D9C592752BB751492810 /* "DebugGame" */,
+				3ED4B9614D64CA111AC37EC8 /* "Development" */,
+				8AB1F3EB8B10B0F88DDBD968 /* "Shipping" */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Development;
+		};
+/* End XCConfigurationList section */
+/* Begin PBXShellScriptBuildPhase section */
+		CE924F18F1C2E034E2FDB7ED /* Sign Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			name = "Sign Manual Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\nIFS=$'\\n'\n\nif [ $PLATFORM_NAME = iphoneos ] || [ $PLATFORM_NAME = tvos ]; then \n\tFRAMEWORK_DIR=$TARGET_BUILD_DIR/$EXECUTABLE_FOLDER_PATH/Frameworks\n\tfor FRAMEWORK in ${FRAMEWORK_DIR}/*.framework; do\n\t\t[ -d \"${FRAMEWORK}\" ] || continue\n\t\techo Codesigning ${FRAMEWORK}\n\t\tcodesign --force --sign ${EXPANDED_CODE_SIGN_IDENTITY} --verbose --preserve-metadata=identifier,entitlements,flags --timestamp=none \"${FRAMEWORK}\"\n\tdone\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+	};
+	rootObject = A8FF494CB3E80D2197D35BBF /* Project object */;
+}
