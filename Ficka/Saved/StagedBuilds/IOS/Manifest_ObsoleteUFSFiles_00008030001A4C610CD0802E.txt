@@ -1,0 +1,12 @@
+cookeddata/ficka/content/custom/meshes/boat/oar_row.uasset
+cookeddata/ficka/content/custom/meshes/boat/oar_row.uexp
+cookeddata/ficka/content/custom/meshes/boat/oar_row_anim.m.ubulk
+cookeddata/ficka/content/custom/meshes/boat/oar_row_anim.uasset
+cookeddata/ficka/content/custom/meshes/boat/oar_row_anim.uexp
+cookeddata/ficka/content/custom/meshes/boat/oar_row_physicsasset.uasset
+cookeddata/ficka/content/custom/meshes/boat/oar_row_physicsasset.uexp
+cookeddata/ficka/content/custom/meshes/boat/oar_row_skeleton.uasset
+cookeddata/ficka/content/custom/meshes/boat/oar_row_skeleton.uexp
+cookeddata/ficka/content/custom/meshes/chair/cloth.uexp
+cookeddata/ficka/content/custom/meshes/chair/cloth_blue.uasset
+cookeddata/ficka/content/custom/meshes/chair/cloth_blue.uexp

@@ -1,1 +1,1 @@
-../../../Ficka/Ficka.uproject  /Game/HandheldARBP/Maps/HandheldARBlankMap -Messaging -SessionId=6E5360429147329A587B4E9CC3A1AB94 -SessionOwner="shianneschrum" -SessionName="Launch On Device" -iterative
+../../../Ficka/Ficka.uproject  /Game/HandheldARBP/Maps/HandheldARBlankMap -Messaging -SessionId=E8545940D44DC46B98060A967A8B335A -SessionOwner="shianneschrum" -SessionName="Launch On Device" -iterative
