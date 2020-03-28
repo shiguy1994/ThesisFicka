@@ -904,3 +904,462 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.28-23.08.31:965][536]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/HandheldARBlankMap707E82E14FFEEA05B3556CA18C5F98E0.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/HandheldARBP/Maps/HandheldARBlankMap.umap'
 [2020.03.28-23.08.32:039][536]AssetCheck: New page: Asset Save: HandheldARBlankMap
 [2020.03.28-23.08.32:039][536]LogContentValidation: Display: Validating World /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap
+[2020.03.28-23.09.15:925][132]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Custom/Meshes/Dolphin/Dolphin_Root.Dolphin_Root
+[2020.03.28-23.09.15:960][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-23.09.15:984][132]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.28-23.09.16:349][133]LogRenderer: Reallocating scene render targets to support 1604x1248 Format 10 NumSamples 1 (Frame:1).
+[2020.03.28-23.09.18:025][221]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Custom/Meshes/Dolphin/Dolphin_Body.Dolphin_Body
+[2020.03.28-23.09.18:056][221]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.18:357][221]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.18:376][221]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.18:398][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.18:409][221]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.03.28-23.09.18:409][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.28-23.09.18:418][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.28-23.09.20:335][314]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.03.28-23.09.20:364][315]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.03.28-23.09.20:462][320]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.03.28-23.09.20:480][321]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.03.28-23.09.20:547][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.20:564][326]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.03.28-23.09.20:579][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2020.03.28-23.09.20:596][328]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.03.28-23.09.20:697][334]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.03.28-23.09.20:785][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.03.28-23.09.20:836][342]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.03.28-23.09.20:888][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.03.28-23.09.20:953][349]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.03.28-23.09.20:998][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.03.28-23.09.21:065][355]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.03.28-23.09.21:101][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.03.28-23.09.21:101][357]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.03.28-23.09.21:134][359]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.03.28-23.09.21:235][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.03.28-23.09.21:287][368]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.03.28-23.09.21:354][372]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.03.28-23.09.21:388][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.03.28-23.09.21:471][379]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.03.28-23.09.21:522][382]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.03.28-23.09.21:556][384]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.03.28-23.09.21:575][385]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.03.28-23.09.21:589][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Texture samplers: 5/16
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.28-23.09.21:621][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.28-23.09.21:724][393]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.03.28-23.09.21:766][395]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.03.28-23.09.21:804][397]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.03.28-23.09.21:854][400]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.03.28-23.09.27:705][722]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.27:729][723]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.03.28-23.09.28:122][744]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.03.28-23.09.28:161][746]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.03.28-23.09.28:348][755]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.03.28-23.09.28:348][755]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2020.03.28-23.09.28:348][755]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.03.28-23.09.28:393][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.03.28-23.09.28:393][756]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.03.28-23.09.28:393][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2020.03.28-23.09.28:474][761]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.03.28-23.09.28:596][764]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.03.28-23.09.28:659][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.03.28-23.09.28:675][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.03.28-23.09.28:794][773]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.03.28-23.09.28:812][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.03.28-23.09.28:828][775]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.03.28-23.09.28:893][776]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.03.28-23.09.28:893][776]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.03.28-23.09.28:906][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.03.28-23.09.29:061][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.03.28-23.09.29:218][795]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.29:237][795]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.03.28-23.09.29:237][795]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.03.28-23.09.29:238][795]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.03.28-23.09.29:238][795]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.03.28-23.09.29:249][795]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.28-23.09.29:274][795]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.03.28-23.09.29:274][795]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2020.03.28-23.09.29:316][796]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2020.03.28-23.09.29:316][796]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.03.28-23.09.29:641][812]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.03.28-23.09.29:697][815]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.03.28-23.09.29:843][819]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.03.28-23.09.29:883][819]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.03.28-23.09.29:883][819]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.03.28-23.09.29:928][820]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.03.28-23.09.29:928][820]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.03.28-23.09.29:928][820]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.03.28-23.09.29:975][823]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.03.28-23.09.30:099][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.03.28-23.09.30:145][828]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.03.28-23.09.30:180][828]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.03.28-23.09.30:259][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.03.28-23.09.30:310][834]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.03.28-23.09.30:310][834]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.03.28-23.09.30:358][837]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.03.28-23.09.30:377][838]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.03.28-23.09.30:394][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.03.28-23.09.30:543][844]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.03.28-23.09.30:562][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.03.28-23.09.30:649][850]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.03.28-23.09.30:681][852]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.03.28-23.09.30:763][857]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Base pass shader: 125 instructions
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Texture samplers: 5/16
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.28-23.09.30:826][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.28-23.09.33:358][  2]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.33:378][  2]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.33:379][  2]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.03.28-23.09.33:383][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.28-23.09.33:751][ 14]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.03.28-23.09.33:799][ 14]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.33:915][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.33:981][ 20]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.03.28-23.09.33:981][ 20]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.03.28-23.09.33:981][ 20]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.03.28-23.09.33:981][ 20]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.03.28-23.09.34:026][ 21]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.03.28-23.09.34:068][ 21]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.03.28-23.09.34:167][ 25]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.03.28-23.09.34:249][ 27]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.03.28-23.09.34:294][ 28]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.03.28-23.09.34:330][ 30]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.03.28-23.09.34:396][ 34]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.03.28-23.09.34:428][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.03.28-23.09.34:465][ 38]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.03.28-23.09.34:465][ 38]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.03.28-23.09.34:481][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.03.28-23.09.34:620][ 47]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.03.28-23.09.34:672][ 50]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.03.28-23.09.34:740][ 54]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.03.28-23.09.34:758][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.03.28-23.09.34:875][ 62]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Texture samplers: 5/16
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.28-23.09.34:955][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.28-23.09.36:894][166]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.36:914][166]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.03.28-23.09.36:914][166]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.28-23.09.37:305][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.03.28-23.09.37:327][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.03.28-23.09.37:497][194]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.03.28-23.09.37:517][195]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.03.28-23.09.37:535][196]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.03.28-23.09.37:551][197]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.03.28-23.09.37:551][197]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.03.28-23.09.37:598][200]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.03.28-23.09.37:683][204]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.03.28-23.09.37:756][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.03.28-23.09.37:824][212]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.03.28-23.09.37:893][216]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.03.28-23.09.37:959][220]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.03.28-23.09.38:027][224]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.03.28-23.09.38:027][224]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.03.28-23.09.38:059][226]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.03.28-23.09.38:076][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.03.28-23.09.38:110][229]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.03.28-23.09.38:128][230]LogMaterialEditor: Applying material Dolphin_Body
+[2020.03.28-23.09.38:611][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.03.28-23.09.38:611][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.03.28-23.09.38:611][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.03.28-23.09.38:611][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.03.28-23.09.38:611][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.03.28-23.09.38:622][230]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.03.28-23.09.38:653][230]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.03.28-23.09.38:719][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.03.28-23.09.38:732][230]LogMaterial: Display: Missing cached shader map for material Dolphin_Body, compiling. 
+[2020.03.28-23.09.38:811][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.28-23.09.38:829][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.28-23.09.40:060][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2020.03.28-23.09.40:060][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 59
+[2020.03.28-23.09.40:060][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.03.28-23.09.40:060][230]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2020.03.28-23.09.40:060][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 53
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 50
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 46
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.03.28-23.09.40:061][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.03.28-23.09.40:067][230]TextureStreamingBuild: Display: Compiling optional shaders took 1.252 seconds.
+[2020.03.28-23.09.40:137][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.28-23.09.40:714][252]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.03.28-23.09.40:948][265]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.03.28-23.09.41:177][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.03.28-23.09.41:194][279]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.03.28-23.09.41:402][291]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.03.28-23.09.41:534][297]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.03.28-23.09.41:555][298]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.03.28-23.09.41:637][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.03.28-23.09.41:653][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.28-23.09.42:156][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.28-23.09.50:152][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Meshes/Dolphin/Dolphin_Root" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/Meshes/Dolphin/Dolphin_Root.uasset" SILENT=true
+[2020.03.28-23.09.50:206][782]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Dolphin_Root1D138F8C41ED6D85CE097EB0A342B87A.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/Meshes/Dolphin/Dolphin_Root.uasset'
+[2020.03.28-23.09.50:259][782]AssetCheck: New page: Asset Save: Dolphin_Root
+[2020.03.28-23.09.50:259][782]LogContentValidation: Display: Validating SkeletalMesh /Game/Custom/Meshes/Dolphin/Dolphin_Root.Dolphin_Root
+[2020.03.28-23.09.51:835][856]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.09.51:835][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.09.52:862][910]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.09.52:862][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.09.55:846][ 86]LogSlate: Window 'Dolphin_Swim_Anim' being destroyed
+[2020.03.28-23.09.55:898][ 86]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.09.55:898][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.09.55:925][ 86]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.09.55:925][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.09.55:994][ 86]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.09.55:994][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.10.36:469][850]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/brand/Desktop/Underwater.wav)
+[2020.03.28-23.10.36:519][850]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Underwater...
+[2020.03.28-23.10.36:520][850]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Custom/SFX/Underwater.Underwater will be modified from 40 to 40.
+[2020.03.28-23.10.36:665][850]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1963008 while cooking SoundWave /Game/Custom/SFX/Underwater.Underwater.
+[2020.03.28-23.10.46:360][383]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Custom/SFX/Underwater_Cue.Underwater_Cue
+[2020.03.28-23.11.01:117][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Underwater_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset" SILENT=true
+[2020.03.28-23.11.01:122][184]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Underwater_Cue18A8B3204BD65595A027EEBDA6A48679.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset'
+[2020.03.28-23.11.01:178][184]AssetCheck: New page: Asset Save: Underwater_Cue
+[2020.03.28-23.11.01:178][184]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Underwater_Cue.Underwater_Cue
+[2020.03.28-23.11.12:464][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Underwater_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset" SILENT=true
+[2020.03.28-23.11.12:471][740]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Underwater_CueAE320A7C4ACFC65C7E3985A2484F3C40.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset'
+[2020.03.28-23.11.12:523][740]AssetCheck: New page: Asset Save: Underwater_Cue
+[2020.03.28-23.11.12:523][740]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Underwater_Cue.Underwater_Cue
+[2020.03.28-23.11.44:869][626]BlueprintLog: New page: Compile Testing_BP
+[2020.03.28-23.11.45:216][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.03.28-23.11.46:393][685]LogTemp: Repeating last play command: Simulate
+[2020.03.28-23.11.46:404][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.28-23.11.46:404][685]PIE: New page: SIE session: HandheldARBlankMap (Mar 28, 2020, 3:11:46 PM)
+[2020.03.28-23.11.46:404][685]LogPlayLevel: Creating play world package: /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.11.46:406][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2020.03.28-23.11.46:407][685]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2020.03.28-23.11.46:407][685]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2020.03.28-23.11.46:407][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap to /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap (0.002596s)
+[2020.03.28-23.11.46:444][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.03.28-23.11.46:444][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-23.11.46:445][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-23.11.46:445][685]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-23.11.46:445][685]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: Channel Order:
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-23.11.46:481][685]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-23.11.46:494][685]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.28-23.11.46:495][685]LogInit: FAudioDevice initialized.
+[2020.03.28-23.11.46:506][685]LogLoad: Game class is 'BP_ARGameMode_C'
+[2020.03.28-23.11.46:507][685]LogWorld: Bringing World /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap up for play (max tick rate 0) at 2020.03.28-19.11.46
+[2020.03.28-23.11.46:508][685]LogWorld: Bringing up level for play took: 0.001928
+[2020.03.28-23.11.46:508][685]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.28-23.11.46:509][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.28-23.11.46:509][685]PIE: Play in editor start time for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap 0.415
+[2020.03.28-23.11.52:337][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.11.52:337][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.11.52:337][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.11.52:337][ 33]LogWorld: BeginTearingDown for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.11.52:338][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.11.52:338][ 33]LogWorld: UWorld::CleanupWorld for HandheldARBlankMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.11.52:339][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.11.52:349][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.28-23.11.52:353][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.11.52:384][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.11.52:387][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.11.52:390][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.28-23.11.52:513][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.28-23.11.55:166][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Underwater_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset" SILENT=true
+[2020.03.28-23.11.55:172][187]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Underwater_CueEF7B7B0C47EDC38D6503E0BF355F3567.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Underwater_Cue.uasset'
+[2020.03.28-23.11.55:225][187]AssetCheck: New page: Asset Save: Underwater_Cue
+[2020.03.28-23.11.55:225][187]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Underwater_Cue.Underwater_Cue
+[2020.03.28-23.11.56:299][252]LogTemp: Repeating last play command: Simulate
+[2020.03.28-23.11.56:311][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.28-23.11.56:311][252]PIE: New page: SIE session: HandheldARBlankMap (Mar 28, 2020, 3:11:56 PM)
+[2020.03.28-23.11.56:311][252]LogPlayLevel: Creating play world package: /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.11.56:312][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001713s)
+[2020.03.28-23.11.56:313][252]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2020.03.28-23.11.56:313][252]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2020.03.28-23.11.56:313][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap to /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap (0.002522s)
+[2020.03.28-23.11.56:348][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-23.11.56:349][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-23.11.56:349][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-23.11.56:350][252]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-23.11.56:350][252]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-23.11.56:386][252]LogAudioMixer: Display: Channel Order:
+[2020.03.28-23.11.56:387][252]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-23.11.56:387][252]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-23.11.56:399][252]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.28-23.11.56:400][252]LogInit: FAudioDevice initialized.
+[2020.03.28-23.11.56:407][252]LogLoad: Game class is 'BP_ARGameMode_C'
+[2020.03.28-23.11.56:409][252]LogWorld: Bringing World /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap up for play (max tick rate 0) at 2020.03.28-19.11.56
+[2020.03.28-23.11.56:410][252]LogWorld: Bringing up level for play took: 0.001857
+[2020.03.28-23.11.56:410][252]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.28-23.11.56:411][252]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.28-23.11.56:411][252]PIE: Play in editor start time for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap 0.316
+[2020.03.28-23.12.08:806][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.08:812][993]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.28-23.12.08:833][993]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.28-23.12.08:833][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.12.08:833][993]LogWorld: BeginTearingDown for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.12.08:834][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.08:834][993]LogWorld: UWorld::CleanupWorld for HandheldARBlankMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.12.08:834][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.12.08:842][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.28-23.12.08:846][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.12.08:878][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.08:881][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.12.08:884][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.03.28-23.12.09:040][  0]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.28-23.12.10:474][ 85]LogSlate: Window 'Underwater_Cue' being destroyed
+[2020.03.28-23.12.12:016][152]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Custom/SFX/Fika_Sound_01_Cue.Fika_Sound_01_Cue
+[2020.03.28-23.12.16:633][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Fika_Sound_01_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset" SILENT=true
+[2020.03.28-23.12.16:660][395]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Fika_Sound_01_Cue7A8A941D4CE211499CC875A6A71B25BE.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset'
+[2020.03.28-23.12.16:714][395]AssetCheck: New page: Asset Save: Fika_Sound_01_Cue
+[2020.03.28-23.12.16:714][395]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Fika_Sound_01_Cue.Fika_Sound_01_Cue
+[2020.03.28-23.12.18:050][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Fika_Sound_01_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset" SILENT=true
+[2020.03.28-23.12.18:056][472]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Fika_Sound_01_CueF252BDA545B0ACFA053C36B0403F1BB3.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset'
+[2020.03.28-23.12.18:109][472]AssetCheck: New page: Asset Save: Fika_Sound_01_Cue
+[2020.03.28-23.12.18:109][472]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Fika_Sound_01_Cue.Fika_Sound_01_Cue
+[2020.03.28-23.12.19:350][539]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Custom/SFX/Underwater_Cue.Underwater_Cue
+[2020.03.28-23.12.21:367][650]LogTemp: Repeating last play command: Simulate
+[2020.03.28-23.12.21:378][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.28-23.12.21:378][650]PIE: New page: SIE session: HandheldARBlankMap (Mar 28, 2020, 3:12:21 PM)
+[2020.03.28-23.12.21:378][650]LogPlayLevel: Creating play world package: /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.12.21:380][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001746s)
+[2020.03.28-23.12.21:380][650]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2020.03.28-23.12.21:381][650]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2020.03.28-23.12.21:381][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap to /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap (0.002500s)
+[2020.03.28-23.12.21:406][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-23.12.21:407][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-23.12.21:407][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-23.12.21:408][650]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-23.12.21:408][650]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-23.12.21:444][650]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-23.12.21:444][650]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.28-23.12.21:444][650]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-23.12.21:444][650]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-23.12.21:444][650]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-23.12.21:445][650]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-23.12.21:445][650]LogAudioMixer: Display: Channel Order:
+[2020.03.28-23.12.21:445][650]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-23.12.21:445][650]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-23.12.21:457][650]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.28-23.12.21:458][650]LogInit: FAudioDevice initialized.
+[2020.03.28-23.12.21:468][650]LogLoad: Game class is 'BP_ARGameMode_C'
+[2020.03.28-23.12.21:470][650]LogWorld: Bringing World /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap up for play (max tick rate 0) at 2020.03.28-19.12.21
+[2020.03.28-23.12.21:470][650]LogWorld: Bringing up level for play took: 0.001903
+[2020.03.28-23.12.21:471][650]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.28-23.12.21:472][650]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.28-23.12.21:472][650]PIE: Play in editor start time for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap -0.623
+[2020.03.28-23.12.27:997][ 39]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.28:002][ 39]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.28-23.12.28:032][ 39]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.28-23.12.28:032][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.12.28:032][ 39]LogWorld: BeginTearingDown for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2020.03.28-23.12.28:033][ 39]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.28:033][ 39]LogWorld: UWorld::CleanupWorld for HandheldARBlankMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-23.12.28:033][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.12.28:044][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.28-23.12.28:048][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-23.12.28:078][ 39]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-23.12.28:082][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-23.12.28:085][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.28-23.12.28:237][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.28-23.12.36:357][514]BlueprintLog: New page: Compile Testing_BP
+[2020.03.28-23.12.36:584][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.03.28-23.12.42:635][865]LogSlate: Window 'Fika_Sound_01_Cue' being destroyed
+[2020.03.28-23.12.47:120][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.03.28-23.12.47:137][102]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/HandheldARBlankMapE7C86A8B4142614260125788EEE6D2D0.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/HandheldARBP/Maps/HandheldARBlankMap.umap'
+[2020.03.28-23.12.47:215][102]AssetCheck: New page: Asset Save: HandheldARBlankMap
+[2020.03.28-23.12.47:215][102]LogContentValidation: Display: Validating World /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap
