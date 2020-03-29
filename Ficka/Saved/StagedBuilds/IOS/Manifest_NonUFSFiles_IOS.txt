@@ -1,6 +1,6 @@
 ARCoreResources.bundle/Info.plist	2020-03-17T05:35:56.933Z
 ARCoreResources.bundle/Resources	2020-03-17T05:35:56.933Z
-Info.plist	242887C2EB1A81CDE2089FC2DBBB9AD6
+Info.plist	643C76F171662839729A728682F2861D
 Default-IPhone6.png	2020-02-01T05:30:59.697Z
 Default-IPhone6Plus-Portrait.png	2020-02-01T05:30:59.699Z
 Default-Portrait@2x.png	2020-02-01T05:30:59.706Z
@@ -20,4 +20,4 @@ Default-IPhoneXS-Landscape.png	2020-02-01T05:30:59.700Z
 Default-IPhoneXSMax-Landscape.png	2020-02-01T05:30:59.701Z
 Default-IPhoneXR-Landscape.png	2020-02-01T05:30:59.699Z
 Default-568h@2x.png	2020-02-01T05:30:59.695Z
-ue4commandline.txt	12A904E6439CE9F5D72F9798D5E72206
+ue4commandline.txt	6812C9C14D22AA929F8A46B5874980BD
