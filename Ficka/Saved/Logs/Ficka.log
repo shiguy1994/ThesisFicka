@@ -11077,3 +11077,12 @@ Script Stack (0 frames):
 [2020.03.30-00.09.07:188][637]LogFileHelpers: Auto-saving content packages took 0.425
 [2020.03.30-00.09.27:913][866]BlueprintLog: New page: Compile Testing_BP
 [2020.03.30-00.09.28:158][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.03.30-00.14.43:099][752]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/brand/Downloads/FickaAudioNew.wav)
+[2020.03.30-00.14.43:136][752]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave FickaAudioNew...
+[2020.03.30-00.14.43:140][752]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Custom/SFX/FickaAudioNew.FickaAudioNew will be modified from 40 to 40.
+[2020.03.30-00.14.44:121][752]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 13312004 while cooking SoundWave /Game/Custom/SFX/FickaAudioNew.FickaAudioNew.
+[2020.03.30-00.14.48:550][993]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Custom/SFX/Fika_Sound_01_Cue.Fika_Sound_01_Cue
+[2020.03.30-00.14.52:647][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/SFX/Fika_Sound_01_Cue" FILE="../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset" SILENT=true
+[2020.03.30-00.14.52:655][198]LogSavePackage: Moving '../../../../../Git/ThesisFicka/Ficka/Saved/Fika_Sound_01_Cue8622DB374535CF8EB90EABBE44B785E8.tmp' to '../../../../../Git/ThesisFicka/Ficka/Content/Custom/SFX/Fika_Sound_01_Cue.uasset'
+[2020.03.30-00.14.52:727][198]AssetCheck: New page: Asset Save: Fika_Sound_01_Cue
+[2020.03.30-00.14.52:727][198]LogContentValidation: Display: Validating SoundCue /Game/Custom/SFX/Fika_Sound_01_Cue.Fika_Sound_01_Cue
